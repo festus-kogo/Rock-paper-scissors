@@ -23,3 +23,33 @@ User vs Computer:
 Scissor vs Scissor
 Draw: Scissor == Scissor
 ```
+
+```
+Enter choice 
+1. Rock
+2. Paper
+3. Scissor
+7
+Must be between 1 through to 3
+
+Enter choice 
+1. Rock
+2. Paper
+3. Scissor
+
+```
+
+```
+Enter choice 
+1. Rock
+2. Paper
+3. Scissor
+w
+Error! Invalid choice
+
+Enter choice 
+1. Rock
+2. Paper
+3. Scissor
+
+```
