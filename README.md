@@ -9,3 +9,17 @@ The winning rules are straightforward:
 - Rock smashes scissors. -> Rock wins
 - Paper covers rock. -> Paper wins
 - Scissors cut paper. -> Scissors wins
+
+```
+Enter choice 
+1. Rock
+2. Paper
+3. Scissor
+3
+User turn: Scissor
+Now it's computer turn...
+Computer turn: Scissor
+User vs Computer: 
+Scissor vs Scissor
+Draw: Scissor == Scissor
+```
