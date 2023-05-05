@@ -1,4 +1,4 @@
-### What Is Rock Paper Scissors
+### Rock Paper Scissors
 
 If you’re unfamiliar, rock paper scissors is a *[hand game](https://en.wikipedia.org/wiki/Hand_game)* for two or more players. Participants 
 say `“rock, paper, scissors”` and then simultaneously form their hands into the shape of a rock 
